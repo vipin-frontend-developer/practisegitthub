@@ -1,1 +1,1 @@
-sysyt
+sysytem .out .prin lin("fjkek")
